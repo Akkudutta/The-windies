@@ -6,7 +6,7 @@ This is a Streamlit WebApp developed to present my Data Science project for pred
 
 This was actually the presentation used by IIM Lucknow's EPDS-03 batch students for one of their projects. 
 The project is called Windmill Power Prediction and the name of the group is The Windies.
-The actual project was prepared using R Studio, codes of which you can find in the repo named Windmill RCode.R
+The actual project was prepared using R Studio, codes of which you can find in the repo named Windmill RCodev2.R
 I have pasted the link for the Deployed Web App along with the Kaggle Data Set which was used for this project.
 
 This Web App was developed in Python using Streamlit. Apart from the lottie animations and Plots with descriptions, while accessing the app, you can find a tab name Predict Power in the sidebar. If click on that, there will be fields where you can fill some values and actually predict the Windmill Power Generated on your own.
