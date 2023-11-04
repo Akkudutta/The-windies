@@ -536,7 +536,7 @@ if selected == "Predict Power":
                     X = df
                     rfgr = load_rf('Rf_model.sav')
                     prediction = rfgr.predict(X)
-                st.write(f"Your Predicted Value is: {prediction} (kW/h)")
+                st.success(f"Your Predicted Value is: **{prediction}** (kW/h)")
 
 
 
