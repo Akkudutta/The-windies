@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 #-----Setup Page Title---
 #Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title = "THE WINDIES - EPDS03", page_icon = ":computer:", layout = "wide")
+st.set_page_config(page_title = "THE WINDIES - EPDS03", page_icon = "🖥", layout = "wide")
 
 #Lottie animation files link: https://lottiefiles.com/search?q=machine%20learning&category=animations
 @st.cache()   #Lottie Cache Setup
